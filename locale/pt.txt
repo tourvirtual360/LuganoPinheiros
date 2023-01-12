@@ -1,0 +1,42 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Cafeteria e Chocolataria em SP
+
+### Title
+tour.name = Chocolate Lugano Pinheiros
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = FACHADA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = FACHADA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = MEZANINO
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = MEZANINO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = SALÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = SALÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ÁREA KIDS
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ÁREA KIDS
+
+## Media
+
+### Title
+panorama_A83F5D8A_A42F_9048_41CA_6954519B44B5.label = 1
+panorama_AF6C2D1F_A42D_F048_41DA_795792DDA5F5.label = Drone-2
+panorama_AF6C4B18_A42D_7048_41D6_DEF44453D9FF.label = 7
+panorama_AF6C5A8E_A42D_B04B_41D6_EAF6DB8FC87A.label = 8
+panorama_AF6EB661_A42F_B0F9_41C0_F780423CF337.label = 2
+panorama_AF6F8B3E_A42E_F048_41DC_FBFE68D5ECA2.label = 5
+panorama_AF6F8B96_A42E_B05B_41E0_4B60B26491D3.label = 6
+panorama_AF6FC909_A42F_7048_41E1_40E4B8ACFBD1.label = 3
+panorama_AF6FCA0A_A42E_B04B_41BB_7CDE3346BF2B.label = 4
+
+## Action
+
+### URL
+LinkBehaviour_B03CA188_A47A_9048_41D3_0047A6D62A9D.source = https://goo.gl/maps/DArccZDCxDoaht729
+LinkBehaviour_B03CE187_A47A_9038_41D9_1ACA43B7AE76.source = instagram.com/chocolateluganopinheirossp
+LinkBehaviour_B5F6E334_A477_905F_41B8_C314D5B640FE.source = https://goo.gl/maps/DArccZDCxDoaht729
+LinkBehaviour_B6801A8B_A456_9048_41E1_D49485117415.source = instagram.com/chocolateluganopinheirossp
