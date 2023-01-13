@@ -36,6 +36,8 @@ panorama_AF6FCA0A_A42E_B04B_41BB_7CDE3346BF2B.label = 4
 ## Action
 
 ### URL
+LinkBehaviour_A15153BF_ACE6_EF8B_41D3_26802EE96493.source = https://wa.link/k5bb0h
+LinkBehaviour_A15F0243_ACE7_E8FB_41B8_F43003C602D1.source = https://wa.link/k5bb0h
 LinkBehaviour_B03CA188_A47A_9048_41D3_0047A6D62A9D.source = https://goo.gl/maps/DArccZDCxDoaht729
 LinkBehaviour_B03CE187_A47A_9038_41D9_1ACA43B7AE76.source = instagram.com/chocolateluganopinheirossp
 LinkBehaviour_B5F6E334_A477_905F_41B8_C314D5B640FE.source = https://goo.gl/maps/DArccZDCxDoaht729
